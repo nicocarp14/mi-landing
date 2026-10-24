@@ -1,0 +1,2 @@
+Nuestro proyecto sera sobre gestion de pedidos y carta en realidad virtual para una cafetería.
+Permite a los clientes visualizar lo que les interesa de la carta y verlo en su tamaño real y hacer pedidos desde la pagina, mientras el personal administra la carta y los pedidos.
